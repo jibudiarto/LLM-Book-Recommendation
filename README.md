@@ -1,5 +1,7 @@
 EXAMPLE USE CASE OF BOOK RECOMMENDATION
 
+Notes: It only recommends book from the vector database that created from GoodReads database
+
 ============================================= </n>
 
 HUMAN QUESTION:
