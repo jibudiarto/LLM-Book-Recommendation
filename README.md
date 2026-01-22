@@ -1,14 +1,26 @@
+AI Augmentation Architecture
+
+<img width="1680" height="940" alt="image" src="https://github.com/user-attachments/assets/5d00bb51-317c-496a-98d9-3c54f8b960de" />
+
+
+============================================= </n>
+
+
 EXAMPLE USE CASE OF BOOK RECOMMENDATION
 
 Notes: It only recommends book from the vector database that created from GoodReads database
 
+
 ============================================= </n>
+
 
 HUMAN QUESTION:
 
 " I love reading fiction books, can you recommend top reviewed fiction in the last 10 years? "
 
+
 ============================================= </n>
+
 
 AI ANSWER:
 
