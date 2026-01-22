@@ -1,14 +1,7 @@
 AI Augmentation / RAG Architecture
+Build a book recommendation LLM using Llama 3.2 and Chroma DB to construct vector database from GoodReads database.
 
 <img width="1680" height="940" alt="image" src="https://github.com/user-attachments/assets/5d00bb51-317c-496a-98d9-3c54f8b960de" />
-
-
-============================================= </n>
-
-
-EXAMPLE USE CASE OF BOOK RECOMMENDATION
-
-Notes: It only recommends book from the vector database that created from GoodReads database
 
 
 ============================================= </n>
