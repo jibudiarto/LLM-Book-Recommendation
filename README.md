@@ -1,23 +1,18 @@
-AI Augmentation / RAG Architecture </n>
+# AI Augmentation / RAG Architecture </n>
 
 Build a book recommendation LLM using Llama 3.2 and Chroma DB to construct vector database from GoodReads database.
 
 <img width="1680" height="940" alt="image" src="https://github.com/user-attachments/assets/5d00bb51-317c-496a-98d9-3c54f8b960de" />
 
 
-============================================= </n>
 
 
-HUMAN QUESTION:
-
+## OUTPUT EXAMPLE
+### User Prompt:
 " I love reading fiction books, can you recommend top reviewed fiction in the last 10 years? "
 
 
-============================================= </n>
-
-
-AI ANSWER:
-
+### AI Answer:
 I'd be happy to help you with some top-reviewed fiction books from the last ten years.
 
 After analyzing the list of books on GoodReads, I've shortlisted the following highly-rated fiction books that were published in the last decade (2013-2022). Here are my recommendations:
