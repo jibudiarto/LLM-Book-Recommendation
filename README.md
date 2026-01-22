@@ -1,4 +1,4 @@
-AI Augmentation Architecture
+AI Augmentation / RAG Architecture
 
 <img width="1680" height="940" alt="image" src="https://github.com/user-attachments/assets/5d00bb51-317c-496a-98d9-3c54f8b960de" />
 
